@@ -7,6 +7,13 @@ Our efficient patch-based RGB-D person perception network simultaneously perform
   <img src="./img/eyecatcher.png" style="width: 500px;"/>
 </div>
 
+## Video
+<div align="center">
+      <a href="https://youtu.be/Exda_QgXYoE"><img src="https://img.youtube.com/vi/Exda_QgXYoE/0.jpg" style="object-fit: none; height: 270px; width: 480px;"></a>
+      <br>(Click on the image to open YouTube video)
+      <br><br>
+</div>
+
 ## License
 The source code is published under Apache 2.0 license, see [license file](./LICENSE) for details.
 
